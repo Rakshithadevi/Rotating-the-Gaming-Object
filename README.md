@@ -38,8 +38,8 @@ Stop
 
 ## Program:
 ~~~
-Developed by : B.PAVIZHI
-Reg. no.: 212221230077
+Developed by : J.RAKSHITHA DEVI
+Reg. no.: 212221230082
 
 
 using System.Collections;
@@ -64,8 +64,8 @@ public class EX1 : MonoBehaviour
 ~~~
 
 ## Output:
+![rakshi](https://user-images.githubusercontent.com/94165326/227464885-a433c22e-7495-4eee-ae0d-2fc4f40a04ab.png)
 
-![image](https://user-images.githubusercontent.com/95067176/226516321-115576ba-f604-4328-8a58-3592b710e169.png)
 
 
 ## Result:
